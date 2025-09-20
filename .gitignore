@@ -1,0 +1,45 @@
+# XAMPP
+xampp/
+htdocs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# Cache
+cache/
+tmp/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Database
+*.sqlite
+*.db
+
+# Composer
+vendor/
+composer.lock
+
+# Node modules (jika ada)
+node_modules/
+package-lock.json
